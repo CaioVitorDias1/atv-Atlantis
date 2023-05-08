@@ -1,3 +1,4 @@
+import CadastrarCliente from "./clienteOps/cadastrarCliente";
 import MenuCadastroCliente from "./menus/menuCadastroCliente";
 import MenuPrincipal from "./menus/menuPrincipal";
 import Processo from "./processo";
@@ -16,8 +17,10 @@ export default class Main extends Processo{
         this.opcao = this.input.inputNumber("Escolha um opção: ")
         switch(this.opcao){
             case 1: 
-                //this.processo = 
-                this.processo.processar()
+                let clienteCadastro = new CadastrarCliente()
+                //this.processo = MenuCadastroCliente 
+                clienteCadastro.processar
+                
             case 0:
                 this.execucao = false
                 console.log("operacao encerrada")
