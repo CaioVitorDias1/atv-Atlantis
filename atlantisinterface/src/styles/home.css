@@ -1,0 +1,21 @@
+.menuPrincipal {
+    
+   
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    top: 80px;
+}
+
+.menuPrincipal button {
+    display: block;
+    margin-bottom: 20px; 
+    padding: 12px;
+}
+
+.textos {
+    position: relative;
+    top: 40px;
+}
