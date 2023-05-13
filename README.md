@@ -45,7 +45,7 @@ decidido que será criado uma interface gráfica do tipo SPA para o sistema
 ## ATV5 
 
 ### Resumo
-A interface foi um sucesso e agora o último passo para finalizar o sistema é integração dessa interface com uma api do backend,
+A interface foi um sucesso e agora o último passo para finalizar o sistema é criar uma aplicação web no backend,
 que possua as mesmas funções do sistema CLI
 
 ### Regras de negócio
