@@ -10,7 +10,7 @@ const input = new Inputs
 // cliente.dataNascimento = new Date(1825, 11, 2)
 // console.log(cliente.nome)
 
-let processo: Processo
+//let processo: Processo
 let emExecucao: boolean = true
 console.log("Bem Vindo ao Atlantis")
 

@@ -21,7 +21,7 @@ export default class CadastrarCliente extends Processo{
         let enderecoEstado = this.input.inputText("informe o estado: ")
         let enderecoPais = this.input.inputText("informe o país: ")
         let enderecoCodigoPostal = this.input.inputText("informe o CP: ")
-        let documento
+        //let documento
 
         let telefoneCliente = new Telefone()
         telefoneCliente.ddd = telefoneDDD
