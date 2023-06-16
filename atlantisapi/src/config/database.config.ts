@@ -1,9 +1,9 @@
 import { Sequelize } from "sequelize";
 
 
-const db = new Sequelize('####', '####', '####',{
-    host: "localhost",
-    dialect: "postgres",
+const db = new Sequelize('app', ' ', ' ',{
+    //host: "localhost",
+    dialect: "sqlite",
     logging: false
 });
 
