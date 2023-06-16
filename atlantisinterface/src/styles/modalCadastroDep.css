@@ -1,0 +1,31 @@
+.principal{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    top: 80px;
+}
+
+.formulario{
+    display:flex;
+    flex-direction: line;
+    align-items: center;
+}
+
+.formulario input{
+
+    display:flex;
+    flex-direction: line;
+    margin: 5px;
+}
+
+
+.elemento{
+    padding: 10px;
+}
+
+.botaozin {
+    position: relative;
+    left: 35%;
+}
