@@ -1,5 +1,5 @@
 # atv-Atlantis
-Repositório para entrega da atv de técnica de prog.
+Repositório para entrega da atv de técnica de programação 2
 
 ## ATV1
 
